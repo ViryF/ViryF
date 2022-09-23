@@ -9,7 +9,7 @@
 
   <p align="center">
     <br/>
-    A highly motivated, analytically minded and customer-oriented professional with experience in modern technologies and frameworks such as Javascript, SQL, CSS and more. Seasoned with fast paced environments, managing teams, and comes with a proven record of working with diverse groups and environments. My primary goal and passion is ensuring that my team will always be the avant-garde in the industry.
+    Tenacious Full Stack Software Engineer/Web Developer with excellent problem solving and multitasking efficiency skills. I am detail-oriented, persistent, and adapt to changing environments while maintaining my focus. My background in customer service and problem-solving in the oil and gas industry makes me focused on the end user.
   </p>
 
 
