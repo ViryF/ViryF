@@ -9,7 +9,7 @@
 
   <p align="center">
     <br/>
-    Tenacious Full Stack Software Engineer/Web Developer with excellent problem solving and multitasking efficiency skills. I am detail-oriented, persistent, and adapt to changing environments while maintaining my focus. My background in customer service and problem-solving in the oil and gas industry makes me focused on the end user.
+    Tenacious Full Stack Software Engineer/Web Developer with excellent problem solving and multitasking efficiency skills. I am detail-oriented, persistent, and adapt to changing environments while maintaining my focus. My background in customer service and problem-solving in the oil and gas industry makes me focused on the end user. Take a look at my <a href="https://docs.google.com/document/d/1Ym1c-y_8nE3jrgzOHAlUsKNTRXuzAMZFQS5wtrcRX4g/edit?usp=sharing" target="_blank">resume</a> for more!
   </p>
 
 
@@ -35,17 +35,25 @@
  
   
   <div>
+    <samp>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
+    <summary><h3>Languages</h3></summary>
         <p align="center">
           <a href="https://github.com/ViryF/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViryF&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="ViryF :: Top Langs" /></a>
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViryF&theme=gruvbox&layout=compact&hide_border=true"
+          alt="ViryF :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViryF&theme=gruvbox&layout=compact&hide_border=true"
+          alt="ViryF :: Top Langs by commit" />
+          </a>
         </p>
+        <summary><h3>Statistics</h3></summary>
         <p align="center">
-          <a href="https://github.com/ViryF">
+          <a href="https://github.com/ViryF/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ViryF&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ViryF&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
+    </samp>
   </div>    
