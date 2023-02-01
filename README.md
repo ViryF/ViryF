@@ -38,26 +38,18 @@
     <samp>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
-    <summary><h3>Languages</h3></summary>
+    <p align="center">
+          <a href="https://github.com/ViryF/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViryF&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Viry Flores :: Top Langs" /></a>
+        </p>
         <p align="center">
           <a href="https://github.com/ViryF/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViryF&theme=gruvbox&layout=compact&hide_border=true"
-          alt="ViryF :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViryF&theme=gruvbox&layout=compact&hide_border=true"
-          alt="ViryF :: Top Langs by commit" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ViryF&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ViryF&theme=gruvbox&hide_border=true" />
           </a>
-        </p>
-        <summary><h3>Analytics</h3></summary>
-        <p align="center">
-          <a href="https://github.com/ViryF">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViryF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViryF&layout=compact&langs_count=8&theme=algolia"/>
-          </a>
-        </p>
+       </p>
      <br>
-    </samp>
   </div>    
- 
   -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508), [1999AZZAR](https://github.com/1999AZZAR) 
+Credits: [1999AZZAR](https://github.com/1999AZZAR) 
   
